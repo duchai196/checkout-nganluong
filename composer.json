@@ -1,0 +1,19 @@
+{
+    "name": "checkout/nganluong",
+    "description": "Thanh toan qua nganluong.vn",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "haind",
+            "email": "haind.greenstep@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            " Checkout\\NganLuong\\": "src/"
+        }
+    }
+}
